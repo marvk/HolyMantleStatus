@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Holy Mantle Status</name>
+    <directory>holy mantle status</directory>
+    <id>1429698625</id>
+    <description>Displays the current status of your holy mantle on the bottom of the screen.</description>
+    <version>1.0.3</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+    <tag id="Items"/>
+    <tag id="Tweaks"/>
+</metadata>
